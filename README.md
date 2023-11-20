@@ -8,7 +8,6 @@ amount_max - amount_min - Maximum and minimum random swap value in eth
 
 liquidity_amount - how much liquidity you want to pour in
 
-private_keys.txt - write private keys here
 
 number_of_threads - number of simultaneously working wallets
 
